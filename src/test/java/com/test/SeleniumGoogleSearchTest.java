@@ -19,7 +19,7 @@ import org.openqa.selenium.TakesScreenshot;
 public class SeleniumGoogleSearchTest {
 
 	public static RemoteWebDriver driver;
-	public static String appURL = "http://localhost:8080/DevOpsWebApp-1.0.0-SNAPSHOT/index.jsp";
+	public static String appURL = "http://13.233.47.17:8080/DevOpsWebApp/index.jsp";
 	
 	@BeforeClass
 	@Parameters({ "browser" })
