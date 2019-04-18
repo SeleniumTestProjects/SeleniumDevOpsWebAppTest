@@ -16,7 +16,7 @@
 			<class name="com.test.SeleniumGoogleSearchTest"/>
 		</classes>
 	</test>
-	<!-- 
+	
 	<test name="Grid firefox Test">
 		<parameter name="browser" value="firefox"/>
 		<classes>
